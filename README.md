@@ -30,6 +30,8 @@ Each topic is organized into its own folder with a Java example file and a READM
 - [Scheduling](./yarn/Scheduling/README.md)
 - [Applications](./yarn/Applications/README.md)
 
+### [FAQ](./FAQ.md)
+
 ## Setup
 
 Run:
@@ -42,7 +44,7 @@ Run:
 
 - Verifies that **Java** is installed
 - Checks for required **Hadoop environment variables**
-- Does **not** install Hadoop automatically
+- installs Hadoop automatically if it isn't found locally
 
 
 ## How to Use
@@ -56,5 +58,4 @@ Run:
 ## Notes
 
 - All examples are **educational**
-- Java files are intentionally **minimal and focused**
 - Designed to work with **local** or **pseudo-distributed** Hadoop setups
