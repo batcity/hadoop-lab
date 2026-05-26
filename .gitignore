@@ -27,3 +27,6 @@ tmp/
 out/
 Env
 .env
+
+# Local Hadoop installation binaries
+dev-env/
