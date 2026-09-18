@@ -18,6 +18,7 @@ Each topic is organized into its own folder with a Java example file and a READM
 - [High Availability (HA)](./hdfs/HA/README.md)
 
 ### MapReduce
+- [Explanation](./mapreduce/README.md)
 - [Word Count](./mapreduce/WordCount/README.md)
 - [Combiners](./mapreduce/Combiners/README.md)
 - [Partitioners](./mapreduce/Partitioners/README.md)
